@@ -1,4 +1,6 @@
 # ImportanceSampling
+The Jupyter Notebook can be found here: https://colab.research.google.com/drive/15BVtn7loJOJv4nUY5KpcT6yYescXNmQO?usp=sharing
+Some values may differ from those reported in this README file because the script was ran again.
 ## 1
 In this question, we generate data from a logistic regression model, the "logistic function" gets a 2d data point and returns a
 probability p given by the logistic model formula. Then, we use this probability to generate 0 or 1 using np.random.binomial.
